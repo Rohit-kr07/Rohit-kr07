@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,I am Rohit Kumar<br>I am a highly motivated Software Developer  in Ranchi, India. <br>Currently, I am pursuing my Bachelor of Technology in Software<br> Engineering at YBN University.
+Hi,I am Rohit Kumar<br>I am a highly motivated Software Developer in Ranchi , Jharkhand. <br>Currently, I am pursuing my Bachelor of Technology in Information<br> Technology at YBN University.
 
 
 ## 🌐 Socials:
